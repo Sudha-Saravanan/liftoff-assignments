@@ -7,11 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+•	Motivation for this project came from our frequent family vacation plans. 
+•	Our vacation plans involved time-consuming and looking for good deals.
+•	This site will provide easy access to hotels, stays along with the local news and about travel advisories for the vacation.
+
 ### Features
-Include Features here
+•	Simple query interface
+•	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+•	Search : Users will be able to search for hotels, stay, entertainment and local news for their vacation.
+•	A tab for Travel Advisories
+•	Google Map
+
 ### Technologies
-Include Technologies here
+•	JavaScript, AJAX, AngularJs, Bootstrap
+•	Python – use Flask(A Python Microframework), Jinja2 templates
+•	HTML
+•	CSS
+•	Visual Studio 2017
+•	MySQL database
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'm learning Angular for this project and have to figureout how to pass data from Python to Angular. 
